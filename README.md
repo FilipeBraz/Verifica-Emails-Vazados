@@ -22,7 +22,7 @@ Esse método utiliza o modelo k-Anonymity, garantindo que a senha completa nunca
 📦 Instalação
 
 1️⃣ Clone o repositório
-git clone https://github.com/seu-usuario/password-checker.git
+git clone https://github.com/FilipeBraz/password-checker.git
 cd password-checker
 
 2️⃣ Instale as dependências
