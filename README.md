@@ -37,12 +37,12 @@ python password_checker.py
 
 O sistema solicitará a senha diretamente no terminal.
 
-🔹 2. Modo CLI
+🔹 2. Modo CLI:
 
 Verificar senha diretamente via argumento:
 python password_checker.py -p MinhaSenha123
 
-🔹 3. Modo Web
+🔹 3. Modo Web:
 python password_checker.py --web
 
 Acesse no navegador:
