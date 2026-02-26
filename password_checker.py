@@ -110,7 +110,7 @@ def home():
 
 def start_web_app():
     print("🌐 Iniciando servidor web em http://127.0.0.1:5000")
-    app.run(debug=True)
+    app.run(host="127.0.0.1", port=8000, debug=True)
 
 
 # ==============================
